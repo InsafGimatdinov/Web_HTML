@@ -1,0 +1,23 @@
+# Игнорировать папку Images
+
+Head_first_one/Images/
+
+# Игнорировать папу Images
+
+Lection/lection1/Image/
+
+# Игнорировать папку log
+
+MyPod/logo/
+
+# Игнорировать папку photos
+
+MyPod/photos/
+
+# Игнорировать папку thumbnails
+
+MyPod/thumbnails/
+
+# Игнорировать папку image
+
+Seminar/image/
